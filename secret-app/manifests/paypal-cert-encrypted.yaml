@@ -1,3 +1,4 @@
+
 apiVersion: bitnami.com/v1alpha1
 kind: SealedSecret
 metadata:
@@ -14,3 +15,4 @@ spec:
       name: paypal-cert
       namespace: default
     type: Opaque
+
